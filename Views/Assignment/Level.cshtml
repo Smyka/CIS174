@@ -1,0 +1,18 @@
+﻿
+
+@{
+    ViewBag.Title = "Assignment Access Page";
+}
+
+<h1>Assignment 6.1 @if (ViewBag.Level >= 8)
+    {
+        <text>Hello, admin</text>
+    }
+</h1>
+
+<body>
+    @foreach (var student in ViewBag.Students)
+    {
+        <p>@student.FirstName @student.LastName Grade: @if (ViewBag.Level >= 8) {@student.Grade;} else {<text>N/A</text>}</p>
+    }
+</body>

@@ -1,0 +1,22 @@
+﻿@model FutureValueModel
+@{
+	ViewBag.Title = "Responsive Web App";
+}
+<h1>Responsive Web App</h1>
+<form asp-action="Index" method="post">
+	<div asp-validation-summary="All"></div>
+	<div>
+		<label asp-for="Name">Name:</label>
+		<input asp-for="Name" />
+	</div>
+	<div>
+		<label asp-for="DOB">DOB:</label>
+		<input asp-for="DOB" />
+	</div>
+	<div>
+		<label>Age this year:</label>
+		<label>@ViewBag.FV.ToString()</label>
+	</div>
+	<button type="submit">Submit</button>
+	<a asp-action="Index">Clear</a>
+</form>
