@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MitchellResponsiveWebAppSmyka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8076b8976ca9e0da2ad68c6a289c134df7fa3bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("MitchellResponsiveWebAppSmyka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MitchellResponsiveWebAppSmyka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

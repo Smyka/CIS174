@@ -25,3 +25,4 @@ C:\Users\mitch\source\repos\HelloWorld\obj\Debug\net6.0\refint\MitchellResponsiv
 C:\Users\mitch\source\repos\HelloWorld\obj\Debug\net6.0\MitchellResponsiveWebAppSmyka.pdb
 C:\Users\mitch\source\repos\HelloWorld\obj\Debug\net6.0\MitchellResponsiveWebAppSmyka.genruntimeconfig.cache
 C:\Users\mitch\source\repos\HelloWorld\obj\Debug\net6.0\ref\MitchellResponsiveWebAppSmyka.dll
+C:\Users\mitch\source\repos\HelloWorld\obj\Debug\net6.0\MitchellResponsiveWebAppSmyka.sourcelink.json

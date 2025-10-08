@@ -1,0 +1,49 @@
+﻿@model List<MitchellResponsiveWebAppSmyka.Models.CountryModel>
+@{
+    string game = (string)ViewBag.game;
+    string category = (string)ViewBag.category;
+    List<string> games = (List<string>)ViewBag.games;
+    List<string> categories = (List<string>)ViewBag.categories;
+}
+
+<div class="col-md-3">
+    <div class="card mb-3">
+        <div class="card-header">Filter by Game</div>
+        <ul class="list-group list-group-flush">
+            @foreach (var g in games)
+            {
+                <li class="list-group-item @(g == game ? "active" : "")">
+                    <a class="text-decoration-none @(g == game)" href="@Url.Action("Index", new { game = g, category = category })">@g</a>
+                </li>
+            }
+        </ul>
+    </div>
+</div>
+<div class="col-md-3">
+    <div class="card mb-3">
+        <div class="card-header">Filter by Category</div>
+        <ul class="list-group list-group-flush">
+            @foreach (var c in categories)
+            {
+                <li class="list-group-item @(c == category ? "active" : "")">
+                    <a class="text-decoration-none @(c == category)" href="@Url.Action("Index", new { game = game, category = c })">@c</a>
+                </li>
+            }
+        </ul>
+    </div>
+</div>
+    
+
+<div class="col-md-9">
+    <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 g-3">
+        @foreach (var country in Model)
+        {
+            <div class="col text-center">
+                <a title="@($"{country.Name} — {country.Game} — {country.Category}")"
+                   data-bs-toggle="tooltip" data-bs-placement="top">
+                    <img src="/flags/@country.FlagFileName" class="img-fluid border" style="max-height:200px;"/>
+                </a>
+            </div>
+        }
+    </div>
+</div>

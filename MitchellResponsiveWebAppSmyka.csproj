@@ -6,4 +6,29 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\flags\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\flags\austria.png" />
+    <None Include="wwwroot\flags\canada.png" />
+    <None Include="wwwroot\flags\china.png" />
+    <None Include="wwwroot\flags\finland.png" />
+    <None Include="wwwroot\flags\france.png" />
+    <None Include="wwwroot\flags\great_britain.png" />
+    <None Include="wwwroot\flags\italy.png" />
+    <None Include="wwwroot\flags\jamaica.png" />
+    <None Include="wwwroot\flags\mexico.png" />
+    <None Include="wwwroot\flags\netherlands.png" />
+    <None Include="wwwroot\flags\pakistan.png" />
+    <None Include="wwwroot\flags\russia.png" />
+    <None Include="wwwroot\flags\slovakia.png" />
+    <None Include="wwwroot\flags\thailand.png" />
+    <None Include="wwwroot\flags\ukraine.png" />
+    <None Include="wwwroot\flags\uruguay.png" />
+    <None Include="wwwroot\flags\usa.png" />
+    <None Include="wwwroot\flags\zimbabwe.png" />
+  </ItemGroup>
+
 </Project>

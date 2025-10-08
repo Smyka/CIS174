@@ -3,36 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|c:\\users\\mitch\\source\\repos\\helloworld\\views\\assignment\\level.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|solutionrelative:views\\assignment\\level.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|c:\\users\\mitch\\source\\repos\\helloworld\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|solutionrelative:controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|c:\\users\\mitch\\source\\repos\\helloworld\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|c:\\users\\mitch\\source\\repos\\helloworld\\views\\country\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|solutionrelative:views\\country\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|c:\\users\\mitch\\source\\repos\\helloworld\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|solutionrelative:controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|c:\\users\\mitch\\source\\repos\\helloworld\\models\\countrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|solutionrelative:models\\countrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|c:\\users\\mitch\\source\\repos\\helloworld\\models\\futurevaluemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|solutionrelative:models\\futurevaluemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|c:\\users\\mitch\\source\\repos\\helloworld\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|c:\\users\\mitch\\source\\repos\\helloworld\\component\\navigationmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|solutionrelative:component\\navigationmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|c:\\users\\mitch\\source\\repos\\helloworld\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|solutionrelative:controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|c:\\users\\mitch\\source\\repos\\helloworld\\views\\assignment\\level.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|solutionrelative:views\\assignment\\level.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|c:\\users\\mitch\\source\\repos\\helloworld\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|solutionrelative:models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|c:\\users\\mitch\\source\\repos\\helloworld\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|c:\\users\\mitch\\source\\repos\\helloworld\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|c:\\users\\mitch\\source\\repos\\helloworld\\models\\futurevaluemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|solutionrelative:models\\futurevaluemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|c:\\users\\mitch\\source\\repos\\helloworld\\component\\navigationmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|solutionrelative:component\\navigationmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|c:\\users\\mitch\\source\\repos\\helloworld\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFB6D725-BA7C-480B-840C-A1B02EF625EA}|MitchellResponsiveWebAppSmyka.csproj|c:\\users\\mitch\\source\\repos\\helloworld\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,7 +85,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -81,79 +93,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Views\\Country\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Country\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Views\\Country\\Index.cshtml",
+              "RelativeToolTip": "Views\\Country\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-26T22:45:14.697Z"
+              "WhenOpened": "2025-10-08T01:24:23.858Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Controllers\\CountryController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T01:43:01.476Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T22:33:52.446Z"
+              "WhenOpened": "2025-10-08T00:56:14.379Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AssignmentController.cs",
-              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Controllers\\AssignmentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AssignmentController.cs",
-              "ToolTip": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Controllers\\AssignmentController.cs",
-              "RelativeToolTip": "Controllers\\AssignmentController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Title": "CountryModel.cs",
+              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Models\\CountryModel.cs",
+              "RelativeDocumentMoniker": "Models\\CountryModel.cs",
+              "ToolTip": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Models\\CountryModel.cs",
+              "RelativeToolTip": "Models\\CountryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T02:59:24.706Z"
+              "WhenOpened": "2025-10-08T00:51:29.579Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-26T22:35:23.664Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NavigationMenu.cs",
-              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Component\\NavigationMenu.cs",
-              "RelativeDocumentMoniker": "Component\\NavigationMenu.cs",
-              "ToolTip": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Component\\NavigationMenu.cs",
-              "RelativeToolTip": "Component\\NavigationMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T00:53:52.844Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -165,20 +144,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Level.cshtml",
               "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Views\\Assignment\\Level.cshtml",
               "RelativeDocumentMoniker": "Views\\Assignment\\Level.cshtml",
               "ToolTip": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Views\\Assignment\\Level.cshtml",
               "RelativeToolTip": "Views\\Assignment\\Level.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBEAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwA8AAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-01T03:02:06.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "FutureValueModel.cs",
               "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Models\\FutureValueModel.cs",
               "RelativeDocumentMoniker": "Models\\FutureValueModel.cs",
@@ -186,11 +165,62 @@
               "RelativeToolTip": "Models\\FutureValueModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T22:44:22.289Z"
+              "WhenOpened": "2025-08-26T22:44:22.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:33:52.446Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "AssignmentController.cs",
+              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Controllers\\AssignmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AssignmentController.cs",
+              "ToolTip": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Controllers\\AssignmentController.cs",
+              "RelativeToolTip": "Controllers\\AssignmentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:59:24.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavigationMenu.cs",
+              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Component\\NavigationMenu.cs",
+              "RelativeDocumentMoniker": "Component\\NavigationMenu.cs",
+              "ToolTip": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Component\\NavigationMenu.cs",
+              "RelativeToolTip": "Component\\NavigationMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T00:53:52.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T22:35:23.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "StudentModel.cs",
               "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Models\\StudentModel.cs",
               "RelativeDocumentMoniker": "Models\\StudentModel.cs",
@@ -198,11 +228,36 @@
               "RelativeToolTip": "Models\\StudentModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T03:24:39.61Z"
+              "WhenOpened": "2025-10-01T03:24:39.61Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:43:01.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T22:45:14.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
@@ -214,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -226,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -238,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Index1.cshtml",
               "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\Views\\Home\\Index1.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index1.cshtml",
@@ -250,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\UnitTesting\\UnitTest1.cs",
               "RelativeDocumentMoniker": "..\\UnitTesting\\UnitTest1.cs",
@@ -262,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "custom.css",
               "DocumentMoniker": "C:\\Users\\mitch\\source\\repos\\HelloWorld\\wwwroot\\custom.css",
               "RelativeDocumentMoniker": "wwwroot\\custom.css",
