@@ -1,0 +1,18 @@
+﻿@model List<MitchellResponsiveWebAppSmyka.Models.CountryModel>
+
+<a href="/Country" class="btn btn-secondary mb-3">Back to Countries</a>
+<h2>Your Favorites</h2>
+
+    <form action="/Favorite/ClearAll" method="post">
+        <button type="submit" class="btn btn-danger mb-3">Clear All Favorites</button>
+    </form>
+
+    <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 g-3">
+        @foreach (var country in Model)
+        {
+            <div class="col text-center">
+                <img src="/flags/@country.FlagFileName" class="img-fluid border" style="max-height:200px;" />
+                <p>@country.Name</p>
+            </div>
+        }
+    </div>

@@ -6,6 +6,8 @@
     List<string> categories = (List<string>)ViewBag.categories;
 }
 
+<a href="/Favorite" class="btn btn-primary">Favorites Page</a>
+
 <div class="col-md-3">
     <div class="card mb-3">
         <div class="card-header">Filter by Game</div>
@@ -43,6 +45,10 @@
                    data-bs-toggle="tooltip" data-bs-placement="top">
                     <img src="/flags/@country.FlagFileName" class="img-fluid border" style="max-height:200px;"/>
                 </a>
+                <form asp-controller="Country" asp-action="AddToFavorites" method="post">
+                    <input type="hidden" name="name" value="@country.Name" />
+                    <button type="submit" class="btn btn-sm btn-outline-primary mt-2">Add to Favorites</button>
+                </form>
             </div>
         }
     </div>
